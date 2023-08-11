@@ -29,6 +29,3 @@ GET /api/users?first_name=<partial_first_name>
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues and submit pull requests to suggest improvements, report bugs, or add new features.
 
-## License
-
-This project is licensed under the terms of the [MIT License](LICENSE).
